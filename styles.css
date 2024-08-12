@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background: black;
+}
+
+header{ 
+    color: Green;
+    font-size:40px;
+    border: solid 10px blue;
+}
+h1{
+    background:red;
+    font-size:70px;
+    text-aling:center;
+}
+p{
+    font-size:60px;
+    color:;
+}
